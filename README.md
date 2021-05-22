@@ -17,7 +17,7 @@ In this activity, you will build a command-line tool that generates an HTML port
   * String template literals for generating a string version of the HTML document before it is written to the file system
 
 ## Demo 
-![](images/screencapture-127-0-0-1-5500-index-html-2021-05-22-14_19_27.png)
+![](images/screencapture-127-0-0-1-5500-index-html-2021-05-22-14_23_20.png)
 
 ## 💡 Hints
 
