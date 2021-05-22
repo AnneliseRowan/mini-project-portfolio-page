@@ -1,0 +1,22 @@
+{
+  "name": "mini-project-portfolio-page",
+  "version": "1.0.0",
+  "description": "In this activity, you will build a command-line tool that generates an HTML portfolio page from user input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnneliseRowan/mini-project-portfolio-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnneliseRowan/mini-project-portfolio-page/issues"
+  },
+  "homepage": "https://github.com/AnneliseRowan/mini-project-portfolio-page#readme",
+  "dependencies": {
+    "inquirer": "^8.1.0"
+  }
+}
